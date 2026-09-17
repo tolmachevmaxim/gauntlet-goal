@@ -1,6 +1,6 @@
 interface:
   display_name: "Gauntlet Goal"
-  short_description: "Формирует цель для /goal по Gauntlet Loop"
-  default_prompt: "Use $gauntlet-goal to turn my task into a ready-to-paste Gauntlet Loop goal."
+  short_description: "Универсальные цели /goal с quality gates"
+  default_prompt: "Use $gauntlet-goal to turn any non-trivial task into a measurable Gauntlet Loop goal."
 policy:
   allow_implicit_invocation: false
